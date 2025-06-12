@@ -1,2 +1,2 @@
 # Trabalho Foly
- Sistema de gerenciamento de uma salão de beleza (Estudio Quatro Dois)
+ Sistema de gerenciamento de um salão de beleza (Estúdio Quatro Dois).
